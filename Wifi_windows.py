@@ -1,8 +1,6 @@
 #! py
 ######################################
-#Copyright of David Bombal, 2021     #
-#https://www.davidbombal.com         #
-#https://www.youtube.com/davidbombal #
+#  Copyright of Aditya Gupta, 2021   #
 ######################################
 
 #    Import subprocess so we can use system commands.
